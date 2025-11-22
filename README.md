@@ -11,4 +11,5 @@ When zombies crouch leg hits also are converted.
 
 # Note
 This should make the human bots more challenging & human-like paired with [E-BOT Spray Fixer](https://github.com/KuNh4/AMXX-EBOT-Spray-Fixer/)
+
 E-BOT Legacy R12 is known to be the most stable version to use with Zombie Mods in CS 1.6.
