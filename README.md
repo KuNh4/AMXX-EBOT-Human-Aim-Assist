@@ -1,6 +1,8 @@
 # AMXX E-BOT Human Aim Assist
 This AMX Mod X plugin was made for E-BOT 1.07 LEGACY R12.
+
 Helps human E-BOTs land more headshots by converting chest and stomach hits to headshots based on a configurable chance.
+
 When zombies crouch leg hits also are converted.
 
 [E-BOT Legacy R12](https://github.com/EfeDursun125/CS-EBOT-LEGACY)
